@@ -30,12 +30,4 @@
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=A7MED-N3GEH&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A7MED-N3GEH&layout=compact&theme=tokyonight)  
 
----
 
-## ✨ Animated Intro
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=600&lines=Competitive+Programmer;Machine+Learning+Enthusiast;Deep+Learning+%7C+CV+%7C+NLP+Explorer;Always+Learning+New+Things)](https://git.io/typing-svg)
-
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
